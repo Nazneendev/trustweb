@@ -1,4 +1,4 @@
-# trustweb
+# Trust HTML CSS
 
 live preview
-https://nazneenakterdeveloper.github.io/trustweb/
+https://nazneendev.github.io/trustweb/
